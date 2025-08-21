@@ -1,4 +1,4 @@
-<h1 align="center"><b>AI-Baseed Healthcare Monitoring System using IOT</b></h1>
+<h1 align="center"><b>AI-Based Healthcare Monitoring System using IOT</b></h1>
 
 The Proposed Healthcare Monitoring System using IoT and NLP aims to create an integrated platform that includes a smart band, mobile application, and generative question-answering system to facilitate efficient healthcare monitoring and medical assistance for patients and doctors. **The smart band** collects vital signs and stores them in a database for real-time access by both patients and healthcare providers. **BioGPT-PubMedQA-Prefix-Tuning Model**, implemented as a chatbot, assists patients with medical inquiries and provides initial prescriptions. Additionally, the chatbot serves as a doctor's assistant, assisting physicians with medical questions during patient consultations. **The mobile application** serves as the primary interface for users, both patients and doctors. It includes separate portals for patients and doctors, offering distinct features tailored to their needs <br>
 
